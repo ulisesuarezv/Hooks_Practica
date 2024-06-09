@@ -1,0 +1,7 @@
+.giro {
+    transform: rotate(180deg);
+}
+
+img {
+    transition: all 0.5s;
+}
